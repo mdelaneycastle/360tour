@@ -1,0 +1,18 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_8DAC77F0_810B_65F2_41A4_EBE978DB94C2.label = 1
+panorama_90497C21_810F_2A12_41C0_EE5F0E549BB5.label = back dark room
+panorama_90FF8642_817F_6616_41D8_52101113F382.label = billywhats
+panorama_91088F61_810C_E612_41DE_0384391C2800.label = bottom bar
+panorama_91C27ED1_8115_2632_41DD_DA9A41653D47.label = maz
+panorama_8C100BB6_8115_2E7E_41CE_0B743137F64A.label = start dark room
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 5
