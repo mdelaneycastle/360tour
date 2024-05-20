@@ -1,0 +1,48 @@
+#: locale=en
+
+## E-Learning
+
+### Question Screen
+quizQuestion_858294FF_955F_6186_41DA_47A7B196AE3C.ok = OK
+
+### Report Screen
+quizScore_858C8500_955F_607A_41D4_EC4A9568DF6B.title = - SCORE -
+quizScore_858C8500_955F_607A_41D4_EC4A9568DF6B.completion = Completed
+quizScore_858C8500_955F_607A_41D4_EC4A9568DF6B.questionsCorrect = Correct
+quizScore_858C8500_955F_607A_41D4_EC4A9568DF6B.downloadCSV = Download .csv
+quizScore_858C8500_955F_607A_41D4_EC4A9568DF6B.questionsIncorrect = Incorrect
+quizScore_858C8500_955F_607A_41D4_EC4A9568DF6B.items = Items Found
+quizScore_858C8500_955F_607A_41D4_EC4A9568DF6B.questions = Questions
+quizScore_858C8500_955F_607A_41D4_EC4A9568DF6B.repeat = Repeat
+quizScore_858C8500_955F_607A_41D4_EC4A9568DF6B.submitToLMS = Submit
+quizScore_858C8500_955F_607A_41D4_EC4A9568DF6B.elapsedTime = Time
+
+### Score Name
+score1.label = Score 1
+
+### Timeout Screen
+quizTimeout_8583E4FF_955F_6186_41E1_6AFB4CAF8E5A.title = - TIMEOUT -
+quizTimeout_8583E4FF_955F_6186_41E1_6AFB4CAF8E5A.repeat = Repeat
+quizTimeout_8583E4FF_955F_6186_41E1_6AFB4CAF8E5A.score = View Score
+
+## Media
+
+### Title
+panorama_9FEFCFF5_952D_1F9A_41E2_2361ACB7BD94.label = 1
+panorama_84349876_95D5_2086_41D1_AE4C665DA857.label = 10
+panorama_9FEF9D9B_952D_238E_41D1_175CD1A2E018.label = 2
+panorama_9FE03B04_952C_E07A_41E0_56B2DAD0998F.label = 3
+panorama_99A786DB_952C_E18E_41CC_3B7A81D0F588.label = 4
+panorama_85289649_953B_608A_41C1_1B1922ED08C8.label = 5
+panorama_8528ABEA_953B_278E_41C9_47DF4CD4A1A8.label = 6
+panorama_8528210C_953B_208A_41E2_8FB706E8AD87.label = 7
+panorama_859D0580_953B_207A_41DD_B56DF5F1A852.label = 8
+panorama_8560DDD3_95D5_239E_41C4_DF2F3CDB5CCF.label = 9
+panorama_849E1B61_96FB_E0BA_41D0_FE9BFE732790.label = front
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 5
