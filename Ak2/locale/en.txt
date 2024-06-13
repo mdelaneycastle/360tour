@@ -1,0 +1,20 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_016D81E2_1136_9500_418F_FAC76B3DA07A.label = 0000
+panorama_016D9D32_1136_ED00_4179_B4BABD715A86.label = 0001
+panorama_016DE895_1136_F300_41A5_7B5E8C17B33C.label = 0002
+panorama_016DA3C2_1136_F500_419F_E11402228A18.label = 0003
+panorama_016C0F02_1136_ED00_41A1_E39BBB74E385.label = 0004
+panorama_016DAA45_1136_9700_41A1_58E0E663B760.label = 0005
+panorama_015F8581_1136_9D00_41A6_DEF816BF65EA.label = 0006
+panorama_00EB30A9_1136_9300_41B0_3ECE35F7FF58.label = 0007
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 9
